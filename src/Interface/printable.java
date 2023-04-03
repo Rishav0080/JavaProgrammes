@@ -18,7 +18,6 @@ class Test5{
         M a=new M();
         a.a();
         a.b();
-
         a.d();
     }}
 
